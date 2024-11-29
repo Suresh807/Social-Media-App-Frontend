@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Social-Media-App-Frontend/static/css/main.c73b5676.css",
+    "main.js": "/Social-Media-App-Frontend/static/js/main.29835d6c.js",
+    "static/media/img-2.jpg": "/Social-Media-App-Frontend/static/media/img-2.bad9338f1a4c64e171f2.jpg",
+    "static/media/img-3.jpg": "/Social-Media-App-Frontend/static/media/img-3.98e9a250fa95a7e28b1f.jpg",
+    "static/media/img-4.jpg": "/Social-Media-App-Frontend/static/media/img-4.27a2e1cebd3637af6ad2.jpg",
+    "static/media/img3.jpg": "/Social-Media-App-Frontend/static/media/img3.d1b86c35136e06b6bd69.jpg",
+    "static/media/img6.jpg": "/Social-Media-App-Frontend/static/media/img6.85c87144197d4925247b.jpg",
+    "static/media/img4.jpg": "/Social-Media-App-Frontend/static/media/img4.a5766eb2f50190ba1f3b.jpg",
+    "static/media/img2.jpg": "/Social-Media-App-Frontend/static/media/img2.5e0016123858bbdd850f.jpg",
+    "static/media/img-1.jpg": "/Social-Media-App-Frontend/static/media/img-1.ddd89f0877545b559e14.jpg",
+    "static/media/img1.jpg": "/Social-Media-App-Frontend/static/media/img1.91c1e69170c200a74037.jpg",
+    "static/media/img5.jpg": "/Social-Media-App-Frontend/static/media/img5.c9191d4c66c8be245211.jpg",
+    "static/media/cover-3.jpg": "/Social-Media-App-Frontend/static/media/cover-3.d9dfa718fe2beca0e570.jpg",
+    "static/media/cover-1.jpg": "/Social-Media-App-Frontend/static/media/cover-1.625dbb587c5585274b54.jpg",
+    "static/media/cover-7.jpg": "/Social-Media-App-Frontend/static/media/cover-7.2907b8a7e4ac82415c7e.jpg",
+    "static/media/img-5.jpg": "/Social-Media-App-Frontend/static/media/img-5.6032f2a0884749352037.jpg",
+    "static/media/cover-2.jpg": "/Social-Media-App-Frontend/static/media/cover-2.17d974e2832a5ad86fa5.jpg",
+    "static/media/cover-8.jpg": "/Social-Media-App-Frontend/static/media/cover-8.2225d989065c51858a28.jpg",
+    "static/media/cover-5.jpg": "/Social-Media-App-Frontend/static/media/cover-5.d085be4493f13ba46b93.jpg",
+    "static/media/cover-9.jpg": "/Social-Media-App-Frontend/static/media/cover-9.1f60a4eaee3cf9652edf.jpg",
+    "static/media/profile.jpg": "/Social-Media-App-Frontend/static/media/profile.6c5b48a0067ce9396092.jpg",
+    "index.html": "/Social-Media-App-Frontend/index.html",
+    "main.c73b5676.css.map": "/Social-Media-App-Frontend/static/css/main.c73b5676.css.map",
+    "main.29835d6c.js.map": "/Social-Media-App-Frontend/static/js/main.29835d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73b5676.css",
+    "static/js/main.29835d6c.js"
+  ]
+}
